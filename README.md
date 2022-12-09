@@ -2,6 +2,9 @@
 
 Bootcamp Final Project - 6ixAuto auto trading website.
 
+Deployed URL
+https://the6ixauto.herokuapp.com/
+
 ## Description
 
 - 6ixAuto is a decentralized auto trading platform where members can deal directly amongst each other without having to pay any fees.
